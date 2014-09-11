@@ -15,6 +15,8 @@
 
 # TO-DO:
 
+# Constants.
+
 # Load modules.
 
 # Classes.
