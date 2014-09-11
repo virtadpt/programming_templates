@@ -6,8 +6,7 @@
 
 # Say what the script is and does.
 
-# By: The Doctor <drwho at scuds dot virtadpt dot net>
-#     0x807B17C1 / 7960 1CDC 85C9 0B63 8D9F  DD89 3BD8 FF2B 807B 17C1
+# By: 
 
 # License:
 
