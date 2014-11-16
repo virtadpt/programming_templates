@@ -12,9 +12,11 @@
 
 # TO-DO:
 
+# Load modules.
+
 # Constants.
 
-# Load modules.
+# Global variables.
 
 # If this is a class or module, say what it is and what it does.
 
