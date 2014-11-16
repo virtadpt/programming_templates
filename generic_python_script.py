@@ -2,8 +2,6 @@
 # -*- coding: utf-8 -*-
 # vim: set expandtab tabstop=4 shiftwidth=4 :
 
-# If this is a class, say what it is and what it does.
-
 # Say what the script is and does.
 
 # By: 
@@ -17,6 +15,8 @@
 # Constants.
 
 # Load modules.
+
+# If this is a class or module, say what it is and what it does.
 
 # Classes.
 
