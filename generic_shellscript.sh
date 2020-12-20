@@ -1,9 +1,9 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 
 # Name of script - Description
 
 # by: <name> (<e-mail address>) <PGP key ID>
-#	PGP fingerprint: <fingerprint>
+#	  PGP fingerprint: <fingerprint>
 
 # Variables
 
